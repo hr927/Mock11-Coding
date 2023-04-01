@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Himanshu",
+      "difficulty": "Easy",
+      "score": 5
+    },
+    {
+      "id": 2,
+      "name": "Deepak",
+      "difficulty": "Medium",
+      "score": 7
+    }
+  ]
+}
